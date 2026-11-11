@@ -1,4 +1,4 @@
-# Consulta Metereologica
+# Consulta Metereológica
 ## Sobre o projeto
 Este projeto consiste em uma aplicação web que permite consultar informações meteorológicas de diferentes cidades.
 O objetivo é facilitar o acesso às condições climáticas atuais e à previsão do tempo, apresentando as informações de forma simples e organizada.
